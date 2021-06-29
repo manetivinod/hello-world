@@ -28,7 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-
+ <!-- sample text -->
   <build>
     <plugins>
       <plugin>
